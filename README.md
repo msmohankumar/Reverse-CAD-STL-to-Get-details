@@ -1,1 +1,0 @@
-# Reverse-CAD-STL-to-Get-details

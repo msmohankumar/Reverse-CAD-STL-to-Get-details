@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+trimesh
+plotly
+Pillow
+scipy
+cadquery
+OCP
